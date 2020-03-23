@@ -3,3 +3,5 @@
 ################################################################################
 
 /ExampleUsage/bin/Debug/netcoreapp3.1
+/ExampleUsage/.vs/ExampleUsage/v16/Server/sqlite3
+/ExampleUsage/obj
